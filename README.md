@@ -1,5 +1,7 @@
 # 🤖 AI 寫作偵測器 (AI Writing Detector)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiot-homework-5-bqy5p4nleevs6jdgof2ybm.streamlit.app)
+
 這是一個使用 Streamlit 建立的互動式網頁應用程式，可以分析英文文本，並判斷其是由 AI 生成還是由人類撰寫。
 
 ## ✨ 主要功能
